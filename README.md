@@ -3,7 +3,9 @@ Investors often struggle to develop an asset portfolio that balances risk and re
 
 API's Needed:
 StockNews API – Retrieves stock-related news articles and sentiment scores.
+
 FRED API – Provides macroeconomic indicators (CPI, GDP, interest rates, employment data, etc.)
+
 YFinance API – Delivers historical stock price
 
 Necessary Libraries:
