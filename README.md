@@ -48,6 +48,9 @@ from reportlab.lib import colors
 
 from reportlab.lib.pagesizes import letter
 
+Methods:
+Calculating economic sentiment (stock performance in different macro-economic situations), price relationships (ensuring diversification), and public sentiment (webscraping), we created a portfolio management tool that redistributes the capital in an investor's portfolio. This program promotes investment in stocks that historically do well in the current macro-economic scene and have bullish sentiment,  while providing a safety-net that ensures diversification.
+
 To run the project, ensure that all of the libraries are installed on your device and import them into your notebook. Then, input your CSV file with all of your stocks and the total amount invested. Then run the functions and add the list of your stocks, as well as your invested amount, to get a reallocation of your investments. Lastly, get the PDF version of the dataframe and print it out to align your investments.
 
 By: Alexander Vazquez, Joseph Kigler, Wildan Levitt
